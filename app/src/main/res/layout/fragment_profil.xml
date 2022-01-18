@@ -161,7 +161,7 @@
 
                 <TextView
                     android:maxWidth="135dp"
-                    android:text="Tanggak SK Pendirian PS"
+                    android:text="Tanggal SK Pendirian PS"
                     android:textSize="12dp"
                     android:textStyle="bold" />
 
@@ -195,7 +195,7 @@
                 <TextView
                     android:maxWidth="160dp"
                     android:paddingLeft="5dp"
-                    android:text="SK Dirjen DIKTI No. 4188/D/T/2004"
+                    android:text="Satryo Soemantri Brodjonegoro"
                     android:textSize="12dp" />
             </TableRow>
 

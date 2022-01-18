@@ -1,4 +1,4 @@
-package com.example.bismillah_faperta;
+package com.example.bismillah_fapet;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -15,7 +15,6 @@ public class SplashActivity extends AppCompatActivity {
         setContentView(R.layout.activity_splash);
 
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
-//        getSupportActionBar().hide();
 
         int SPLASH_TIME=2000;
 
